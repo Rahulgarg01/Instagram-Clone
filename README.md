@@ -1,1 +1,3 @@
 # Instagram-Clone
+
+This is a clone of instagram landing page . It looks similar to the download page of instagram....
